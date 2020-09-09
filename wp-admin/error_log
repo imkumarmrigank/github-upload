@@ -1,0 +1,4 @@
+[04-Sep-2020 10:02:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=2084868 in /home/intellem/public_html/srisai/wp-includes/wp-db.php on line 2033
+[04-Sep-2020 10:04:22 UTC] PHP Warning:  Error while sending QUERY packet. PID=2114437 in /home/intellem/public_html/srisai/wp-includes/wp-db.php on line 2033
+[05-Sep-2020 10:29:48 UTC] [ZN_HogashDashboard::getThemeInfo] An error occurred while trying to retrieve the information for the theme: Please register your theme to be able to perform this action.
+[07-Sep-2020 05:33:26 UTC] [ZN_HogashDashboard::getThemeInfo] An error occurred while trying to retrieve the information for the theme: Please register your theme to be able to perform this action.
